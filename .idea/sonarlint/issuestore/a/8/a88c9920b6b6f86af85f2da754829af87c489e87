@@ -1,0 +1,9 @@
+
+x
+java:S1488%"]Immediately return this expression instead of assigning it to the temporary variable "token".(ş½È’øÿÿÿÿ
+€
+java:S1488>"^Immediately return this expression instead of assigning it to the temporary variable "userId".(ì™´ºıÿÿÿÿ8äİ”Ä0
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ä¼ç
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(ñšÔ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(êÕã
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(­ ‘ˆüÿÿÿÿ

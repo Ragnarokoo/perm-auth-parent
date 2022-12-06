@@ -1,0 +1,14 @@
+
+`	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(ß¥ÕÃøÿÿÿÿ
+8
+java:S1643‹"Use a StringBuilder instead.(µÛÜ•ùÿÿÿÿ
+\
+java:S22598"AA "NullPointerException" could be thrown; "sra" is nullable here.(ÐÙÙ‚øÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(ê”‹Ôþÿÿÿÿ
+‡
+java:S1130y"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ß¥ÕÃøÿÿÿÿ
+?	java:S108Œ")Either remove or fill this block of code.(”ý¾
+L
+java:S1751¢"6Remove this "return" statement or make it conditional.(Õ¸¦"
+M
+java:S1751¨"6Remove this "return" statement or make it conditional.(ÚöÄ
